@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    margin-top: 100px;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    font-size: 45px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 18px;
+    margin: 8px;
+    cursor: pointer;
+}
+
+#message {
+    color: red;
+    font-weight: bold;
+}
